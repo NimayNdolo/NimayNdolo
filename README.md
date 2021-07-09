@@ -1,4 +1,4 @@
-### Hey there! I'm Nimay Ndolo (🙆🏾‍♀️) -- an Atlanta based software developer & content creator!
+### Hey there! I'm [Nimay Ndolo](https://nimayndolo.com/) (🙆🏾‍♀️) -- an Atlanta based software developer & content creator!
 
 ```
 const nimayNdolo = [
