@@ -10,11 +10,11 @@ const nimayNdolo = [
                 It deserves a place on the cheese plate--IN CUBE/SLICE FORM',
    🟣 opinion2: 'Chihuahuas kinda make sense (in theory)',
    🚣‍♀️ hobbies: 'Reading/listening to creepypastas, SCP files, audiobooks and podcasts about cults,
-                kayaking, biking, KNITTING, listening to entire discographies'
+                kayaking, biking, KNITTING, coding, listening to entire discographies'
 },
 {
    📖 bio: 'I discovered my love of coding back in college while studying theater & film. After some
-           time in sales and hospitality, I decided to circle back around to it. For me, THE BEST 
+           time in sales and hospitality, I decided to circle back around to the old hobby. For me, THE BEST 
            THING about coding is the ability to be technical AND creative (basically, I get to have 
            my cake 🍰 and eat it 💁🏾‍♀️)!'
 }
