@@ -6,11 +6,13 @@ const nimayNdolo = [
    😃 wholeName: 'Obumneme Ndolo',
    🤠 preferredName: 'Nimay',
    #️⃣ age: 26,
-   🟡 opinion1: 'I DO NOT like the way people treat parmesan cheese. 
-                It deserves a place on the cheese plate--IN CUBE/SLICE FORM',
-   🟣 opinion2: 'Chihuahuas kinda make sense (in theory)',
    🚣‍♀️ hobbies: 'Reading/listening to creepypastas, SCP files, audiobooks and podcasts about cults,
                 kayaking, biking, KNITTING, coding, listening to entire discographies'
+},
+{
+   🟡 opinion1: 'I DO NOT like the way people treat parmesan cheese. 
+                It deserves a place on the cheese plate--IN CUBE/SLICE FORM',
+   🟣 opinion2: 'Chihuahuas kinda make sense (in theory)'
 },
 {
    📖 bio: 'I discovered my love of coding back in college while studying theater & film. After some
