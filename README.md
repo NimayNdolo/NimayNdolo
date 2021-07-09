@@ -23,11 +23,9 @@ const nimayNdolo = [
 ]
 ```
 
-### Check out my resume below!
+### [Download](https://github.com/NimayNdolo/theInteractyMERN-backend/files/6792917/nimayNdolo_Professional_Resume_PRINT.pdf) or check out my resume below!
 
 ![nimayNdolo_Professional_Resume_IMAGEPRINT](https://media.git.generalassemb.ly/user/35033/files/35babe80-e0b7-11eb-8912-cc4bb2418be5)
-
-## DOWNLOAD: [nimayNdolo_Professional_Resume_PRINT.pdf](https://github.com/NimayNdolo/theInteractyMERN-backend/files/6792917/nimayNdolo_Professional_Resume_PRINT.pdf)
 
 
 
